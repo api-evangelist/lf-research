@@ -13,7 +13,7 @@ LF Research is the Linux Foundation's research arm that publishes reports and st
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -31,6 +31,8 @@ Programmatic access to LF Research publications, open source trend data, and ind
 ## Common Properties
 - [Documentation](https://www.linuxfoundation.org/research)
 - [GitHub Repository](https://github.com/LF-Engineering)
+- [Publications](https://www.linuxfoundation.org/research)
+- [Contact](mailto:research@linuxfoundation.org)
 
 ## Maintainers
 **FN:** Kin Lane
