@@ -31,6 +31,10 @@ apis:
       - type: Documentation
         url: https://www.linuxfoundation.org/research
 common:
+  - type: VulnerabilityDisclosure
+    url: security/lf-research-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/lf-research-domain-security.yml
   - type: Documentation
     name: LF Research Documentation
     description: Official documentation for LF Research.
@@ -47,6 +51,8 @@ common:
     name: LF Research Contact
     description: Direct contact email for LF Research inquiries.
     url: mailto:research@linuxfoundation.org
+  - url: https://www.linuxfoundation.org/blog/rss.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
