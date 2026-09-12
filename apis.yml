@@ -64,6 +64,8 @@ apis:
       - type: Documentation
         url: https://www.linuxfoundation.org/research
 common:
+  - type: Website
+    url: https://www.linuxfoundation.org/
   - type: VulnerabilityDisclosure
     url: security/lf-research-vulnerability-disclosure.yml
   - type: DomainSecurity
