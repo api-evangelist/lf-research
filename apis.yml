@@ -32,13 +32,14 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lf-researc
 tags:
   - Analysis
   - Linux Foundation
-  - Open-Source
+  - Open Source
   - Research
 tags_raw:
   - Analysis
   - Linux Foundation
   - Open Source
   - Research
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
@@ -53,13 +54,14 @@ apis:
     tags:
       - Analysis
       - Linux Foundation
-      - Open-Source
+      - Open Source
       - Research
     tags_raw:
       - Analysis
       - Linux Foundation
       - Open Source
       - Research
+      - Open-Source
     properties:
       - type: Documentation
         url: https://www.linuxfoundation.org/research
