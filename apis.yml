@@ -66,6 +66,12 @@ apis:
       - type: Documentation
         url: https://www.linuxfoundation.org/research
 common:
+  - type: Plans
+    url: plans/lf-research-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/lf-research-rate-limits.yml
+  - type: FinOps
+    url: finops/lf-research-finops.yml
   - type: Website
     url: https://www.linuxfoundation.org/
   - type: VulnerabilityDisclosure
